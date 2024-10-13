@@ -1,20 +1,22 @@
 Before for loop
 inside for loop
-value of loop = 10
+value of loop = 100
 inside for loop
-value of loop = 20
-inside for loop
-value of loop = 30
-inside for loop
-value of loop = 40
-inside for loop
-value of loop = 50
-inside for loop
-value of loop = 60
-inside for loop
-value of loop = 70
+value of loop = 90
 inside for loop
 value of loop = 80
 inside for loop
-value of loop = 90
+value of loop = 70
+inside for loop
+value of loop = 60
+inside for loop
+value of loop = 50
+inside for loop
+value of loop = 40
+inside for loop
+value of loop = 30
+inside for loop
+value of loop = 20
+inside for loop
+value of loop = 10
 Outside for loop
