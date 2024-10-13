@@ -1,0 +1,182 @@
+Before for loop
+inside for loop
+value of loop = 10
+inside for loop
+value of loop = 11
+inside for loop
+value of loop = 12
+inside for loop
+value of loop = 13
+inside for loop
+value of loop = 14
+inside for loop
+value of loop = 15
+inside for loop
+value of loop = 16
+inside for loop
+value of loop = 17
+inside for loop
+value of loop = 18
+inside for loop
+value of loop = 19
+inside for loop
+value of loop = 20
+inside for loop
+value of loop = 21
+inside for loop
+value of loop = 22
+inside for loop
+value of loop = 23
+inside for loop
+value of loop = 24
+inside for loop
+value of loop = 25
+inside for loop
+value of loop = 26
+inside for loop
+value of loop = 27
+inside for loop
+value of loop = 28
+inside for loop
+value of loop = 29
+inside for loop
+value of loop = 30
+inside for loop
+value of loop = 31
+inside for loop
+value of loop = 32
+inside for loop
+value of loop = 33
+inside for loop
+value of loop = 34
+inside for loop
+value of loop = 35
+inside for loop
+value of loop = 36
+inside for loop
+value of loop = 37
+inside for loop
+value of loop = 38
+inside for loop
+value of loop = 39
+inside for loop
+value of loop = 40
+inside for loop
+value of loop = 41
+inside for loop
+value of loop = 42
+inside for loop
+value of loop = 43
+inside for loop
+value of loop = 44
+inside for loop
+value of loop = 45
+inside for loop
+value of loop = 46
+inside for loop
+value of loop = 47
+inside for loop
+value of loop = 48
+inside for loop
+value of loop = 49
+inside for loop
+value of loop = 50
+inside for loop
+value of loop = 51
+inside for loop
+value of loop = 52
+inside for loop
+value of loop = 53
+inside for loop
+value of loop = 54
+inside for loop
+value of loop = 55
+inside for loop
+value of loop = 56
+inside for loop
+value of loop = 57
+inside for loop
+value of loop = 58
+inside for loop
+value of loop = 59
+inside for loop
+value of loop = 60
+inside for loop
+value of loop = 61
+inside for loop
+value of loop = 62
+inside for loop
+value of loop = 63
+inside for loop
+value of loop = 64
+inside for loop
+value of loop = 65
+inside for loop
+value of loop = 66
+inside for loop
+value of loop = 67
+inside for loop
+value of loop = 68
+inside for loop
+value of loop = 69
+inside for loop
+value of loop = 70
+inside for loop
+value of loop = 71
+inside for loop
+value of loop = 72
+inside for loop
+value of loop = 73
+inside for loop
+value of loop = 74
+inside for loop
+value of loop = 75
+inside for loop
+value of loop = 76
+inside for loop
+value of loop = 77
+inside for loop
+value of loop = 78
+inside for loop
+value of loop = 79
+inside for loop
+value of loop = 80
+inside for loop
+value of loop = 81
+inside for loop
+value of loop = 82
+inside for loop
+value of loop = 83
+inside for loop
+value of loop = 84
+inside for loop
+value of loop = 85
+inside for loop
+value of loop = 86
+inside for loop
+value of loop = 87
+inside for loop
+value of loop = 88
+inside for loop
+value of loop = 89
+inside for loop
+value of loop = 90
+inside for loop
+value of loop = 91
+inside for loop
+value of loop = 92
+inside for loop
+value of loop = 93
+inside for loop
+value of loop = 94
+inside for loop
+value of loop = 95
+inside for loop
+value of loop = 96
+inside for loop
+value of loop = 97
+inside for loop
+value of loop = 98
+inside for loop
+value of loop = 99
+Outside for loop
